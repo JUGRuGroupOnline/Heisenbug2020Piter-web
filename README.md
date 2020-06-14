@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Задачи на Heisenbug 2020 Piter
 
-You can use the [editor on GitHub](https://github.com/JUGRuGroupOnline/Heisenbug2020Piter-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Coding_pic](coding.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+На GitHub мы проведем конкурс для тех, кто хочет покодить. На нашей странице вы найдете восемь задач по количеству направлений в наших конференциях. После решения задачи нужно засабмитить ее в Pull Requests.
 
-### Markdown
+Решать задачки можно будет и после фестиваля: мы будем принимать ответы до 18.00 четверга (18 июня). Победителей мы объявим в пятницу 19 июня. Каждый из них получит промокод на бесплатный Full Pass.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Ссылка на репозиторий с задачами](https://github.com/JUGRuGroupOnline/HeisenbugPiter2020)
 
-```markdown
-Syntax highlighted code block
+# Конкурс Top Post
 
-# Header 1
-## Header 2
-### Header 3
+![Popular_post_pic](popular_post.png)
 
-- Bulleted
-- List
+## Top post в Инстаграм
+1. Сделать композиционное фото, на котором виден экран монитора или гаджета с трансляцией конференции Heisenbug. Композиция может быть шуточной, милой, творческой. Пример фото: ноутбук с трансляцией Heisenbug, а на клавиатуре лежит голова спящего кота и т.д.
+2. Учасновить хэштег конференции #янаheisenbug
+3. Упомянуть профиль Heisenbug (@имя профиля)
 
-1. Numbered
-2. List
+Мы определим победителя к концу конференции, т.е 18 июня. Объявление победителя произойдет на закрытии конференции.
+Приз: 1 бесплатный билет fullpass!
 
-**Bold** and _Italic_ and `Code` text
+## Top post в Твиттере
+1. В 270 символов уложить свой отзыв об участии в конференции. Отзыв может быть в необычной форме: рифма, шутка, хокку
+2. Необходимо отметить аккаунт Heisenbug и указать хэштег #янаheisenbug
+3. Можно писать неограниченное количество твитов для победы
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JUGRuGroupOnline/Heisenbug2020Piter-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Мы определим победителя к концу конференции, т.е 18 июня. Объявление победителя произойдет на закрытии конференции.
+Приз: 1 бесплатный билет fullpass!
